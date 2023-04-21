@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://github.com/gboteva"
+          feed_list: "https://github.com//gboteva.private.atom?token=AYVQFZVX4JOQTDDMNF2B76WCJ6JHK"
