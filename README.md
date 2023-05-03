@@ -42,8 +42,8 @@
 <!-- ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gboteva&theme=vue-dark&border_radius=10)](https://git.io/streak-stats) -->
 
-### :fire: My Top Language:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gboteva&show_icons=true&locale=en&layout=compact&&theme=vue-dark" alt="gboteva" /></p>
+<!-- ### :fire: My Top Language:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gboteva&show_icons=true&locale=en&layout=compact&&theme=vue-dark" alt="gboteva" /></p> -->
 
 
 <!-- BLOG-POST-LIST:START -->
