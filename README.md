@@ -28,7 +28,7 @@
 ### :baby: About Me:
 :woman_technologist: I am an almost Junior Java Developer <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="40">  from Bulgaria.
 
-- :telescope: I’m studying software web development in SoftUni with Java, but the program includes some JavaScript, HTML, CSS and SQL.
+- :telescope: I’m studying software web development in SoftUni with Java, but the program includes some JavaScript, HTML, CSS and MySQL.
 
 - :seedling: I still have a lot to learn, but programming is that passion that I searched for. 
 
