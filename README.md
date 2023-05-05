@@ -43,7 +43,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gboteva&theme=vue-dark&border_radius=10)](https://git.io/streak-stats) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gboteva&layout=compact"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
